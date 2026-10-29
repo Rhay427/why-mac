@@ -1,8 +1,37 @@
-# Why? — Your Mac, explained.
+<p align="center">
+  <img src="Website/assets/why-icon.png" width="112" height="112" alt="Why? app icon">
+</p>
 
-An open-source native macOS menu-bar utility that turns system signals into a
-plain-English explanation. Open Why?, choose **Check Now**, and receive the
+<h1 align="center">Why?</h1>
+
+<p align="center"><strong>Your Mac, explained.</strong></p>
+
+<p align="center">
+  A native macOS menu-bar app that turns system signals into a plain-English answer.
+</p>
+
+<p align="center">
+  macOS 13+ &nbsp;·&nbsp; Apple Silicon &nbsp;·&nbsp; On-device &nbsp;·&nbsp; Open source
+</p>
+
+<p align="center">
+  <a href="#build-and-run">Build &amp; run</a> &nbsp;·&nbsp;
+  <a href="PRIVACY.md">Privacy</a> &nbsp;·&nbsp;
+  <a href="CONTRIBUTING.md">Contribute</a> &nbsp;·&nbsp;
+  <a href="LICENSE">MIT license</a>
+</p>
+
+<p align="center">
+  <img src="Website/assets/02-sustained-processor-activity-v2.png" width="960" alt="Why? identifying Xcode as a sustained processor contributor, with a secondary automatic-sleep reminder.">
+</p>
+
+<p align="center"><sub>Illustrative product example. Results depend on the evidence collected on your Mac.</sub></p>
+
+## A clearer answer, in one check
+
+Open Why? from the menu bar, choose **Check Now**, and receive the
 strongest supported explanation after an observation of about five seconds.
+Checks run when you ask; Why? does not continuously sample process activity.
 
 Why? can explain thermal pressure, memory pressure, sustained processor
 activity, a likely processor-related contributor to battery use, and supported
