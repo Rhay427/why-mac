@@ -1,0 +1,16 @@
+1
+00:00:00,300 --> 00:00:02,400
+Mac feeling slow?
+
+2
+00:00:02,700 --> 00:00:06,300
+Meet Why. One check, a plain-English answer.
+
+3
+00:00:06,700 --> 00:00:10,500
+Find what's keeping your processor busy.
+
+4
+00:00:11,000 --> 00:00:14,900
+Your Mac, explained.
+Open-source release coming soon.

@@ -1,0 +1,33 @@
+# Local builds and test results
+.build/
+DerivedData/
+build/
+*.xcresult/
+*.dSYM/
+*.xcarchive/
+
+# macOS and personal Xcode state
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Local design tooling, generated review captures, and assistant state
+.impeccable/
+.agents/
+.codex/
+
+# Credentials and distribution signing material
+.env
+.env.*
+!.env.example
+.aws/
+*.p12
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+*.provisionprofile
+
+# Locally packaged distribution artifacts
+*.dmg
+*.pkg
